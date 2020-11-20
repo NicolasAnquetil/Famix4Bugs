@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "na 11/20/2020 11:48",
+	"super" : "GLMBrowserTemplate",
+	"category" : "Famix-Extensions-Bugs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"model"
+	],
+	"name" : "BugClassBrowser",
+	"type" : "normal"
+}

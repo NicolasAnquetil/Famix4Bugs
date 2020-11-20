@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "na 11/20/2020 11:49",
+	"super" : "Object",
+	"category" : "Famix-Extensions-Bugs",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"model"
+	],
+	"name" : "BugImporter",
+	"type" : "normal"
+}
