@@ -1,1 +1,0 @@
-Famix Entity to represent a Bug

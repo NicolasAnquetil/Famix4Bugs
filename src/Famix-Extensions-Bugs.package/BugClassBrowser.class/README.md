@@ -1,1 +1,0 @@
-A small browser of bugs
